@@ -1,9 +1,9 @@
 # 👋 ¡Hola! Soy Anthony
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Estudiante-Desarrollo%20de%20Software-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Rol">
   <img src="https://img.shields.io/badge/UTP-Univ.%20Tecnológica%20de%20Panamá-d32f2f?style=for-the-badge" alt="Universidad">
-</div>
+</p>
 
 ### 🎓 Educación y Perfil
 - 📚 **Carrera:** Licenciatura en Desarrollo y Gestión de Software.
@@ -13,14 +13,16 @@
 ---
 
 ### 📊 Mis Estadísticas de GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyPerez10&theme=tokyonight&hide_border=true" alt="Racha" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyPerez10&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ### 🛠️ Tecnologías y Herramientas
