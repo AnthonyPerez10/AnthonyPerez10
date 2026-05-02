@@ -13,13 +13,14 @@
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes" height="180px" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyPerez10&theme=tokyonight&hide_border=true" alt="Racha" />
-</div>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyPerez10&theme=tokyonight&hide_border=true" alt="Racha" />
+</p>
 ---
 
 ### 🛠️ Tecnologías y Herramientas
