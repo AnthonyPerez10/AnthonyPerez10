@@ -1,67 +1,70 @@
-# 👋 ¡Hola! Soy Anthony
+# 👋 ¡Hola! Soy Anthony Pérez
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Desarrollo%20de%20Software-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Rol">
-  <img src="https://img.shields.io/badge/UTP-Univ.%20Tecnológica%20de%20Panamá-d32f2f?style=for-the-badge" alt="Universidad">
+  <img src="https://img.shields.io/badge/Desarrollador%20de%20Software-Estudiante-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/UTP-Universidad%20Tecnológica%20de%20Panamá-d32f2f?style=for-the-badge">
 </p>
 
 ---
 
-### 🎓 Educación y Perfil
-- 📚 **Carrera:** Licenciatura en Desarrollo y Gestión de Software  
-- 🏛️ **Institución:** Universidad Tecnológica de Panamá (UTP)  
-- 💻 **Descripción:** Enfocado en crear soluciones eficientes y escalables. Aprendiendo constantemente nuevas tecnologías y enfrentando retos reales.
+## 🚀 Sobre mí
+
+🎓 Estudiante de **Desarrollo y Gestión de Software** en la UTP
+💡 Interesado en crear soluciones **eficientes, escalables y útiles**
+📈 En constante aprendizaje y enfrentando retos reales del desarrollo
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-main-anuraghazra1.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats-git-main-anuraghazra1.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-git-main-anuraghazra1.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-git-main-anuraghazra1.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyPerez10&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
-#### 📱 Desarrollo Móvil (Aprendiendo)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+### 📱 Desarrollo Móvil (en progreso)
 
-#### 🚀 Lenguajes de Programación
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
 
-#### 🎨 Herramientas
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🚀 Lenguajes
 
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-#### 🗄️ Base de Datos
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🎨 Herramientas
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### 🗄️ Base de Datos
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
 
-### 📫 Conectemos
-<div align="left">
+## 📫 Contacto
+
+<p align="left">
   <a href="mailto:anthony.perez10@utp.ac.pa">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+    <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-</div>
+</p>
