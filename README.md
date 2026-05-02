@@ -17,8 +17,12 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats-git-main-anuraghazra1.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-git-main-anuraghazra1.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyPerez10&theme=tokyonight" />
 </p>
 
 <p align="center">
