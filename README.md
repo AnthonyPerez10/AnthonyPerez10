@@ -4,8 +4,11 @@
   <img src="https://img.shields.io/badge/Desarrollador%20de%20Software-Estudiante-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/UTP-Universidad%20Tecnológica%20de%20Panamá-d32f2f?style=for-the-badge">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brandom0215&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
----
+----
 
 ## 🚀 Sobre mí
 
