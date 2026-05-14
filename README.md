@@ -15,18 +15,17 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
+📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=tokyonight&hide_border=true&stroke=70a5fd&ring=70a5fd&fire=ff9e64" alt="GitHub Streak" />
 </p>
 
----
+----
 
 ## 🛠️ Tecnologías y Herramientas
 
