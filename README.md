@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=tokyonight&hide_border=true&stroke=70a5fd&ring=70a5fd&fire=ff9e64" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=tokyonight&hide_border=true&stroke=70a5fd&ring=70a5fd&fire=ff9e64&date_format=j%20M%5B%20Y%5D&timezone=America/Panama" alt="GitHub Streak" />
 </p>
 
 ----
