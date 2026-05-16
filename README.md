@@ -18,26 +18,12 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://github.com/AnthonyPerez10">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"
-    />
-  </a>
-
-  <a href="https://github.com/AnthonyPerez10">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-    />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyPerez10&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnthonyPerez10&theme=tokyonight" style="height: 11em;" />
 </p>
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7"
-  />
+  <img src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" height="180" />
 </p>
 
 ----
