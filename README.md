@@ -13,16 +13,31 @@
 💡 Me apasiona crear soluciones **eficientes, escalables y útiles** que resuelvan problemas del mundo real.  
 📈 Actualmente enfocado en perfeccionar mis habilidades en el desarrollo móvil, web y de software, así como en el diseño de arquitecturas sólidas para enfrentar retos reales del desarrollo.
 
----
+---- 
 
 ## 📊 Estadísticas de GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <a href="https://github.com/AnthonyPerez10">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"
+    />
+  </a>
+
+  <a href="https://github.com/AnthonyPerez10">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+    />
+  </a>
 </p>
 
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=tokyonight&hide_border=true&stroke=70a5fd&ring=70a5fd&fire=ff9e64&date_format=j%20M%5B%20Y%5D&timezone=America/Panama&v=3" alt="GitHub Streak" />
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7"
+  />
 </p>
 
 ----
