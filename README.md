@@ -18,8 +18,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyPerez10&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnthonyPerez10&theme=tokyonight" style="height: 11em;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyPerez10&theme=tokyonight" height="200" />
+  <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=AnthonyPerez10&show_icons=true&hide_border=true&theme=radical" height="250" alt="Top Languages">
 </p>
 
 <p align="center">
