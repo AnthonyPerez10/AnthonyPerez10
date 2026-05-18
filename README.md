@@ -18,12 +18,16 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyPerez10&theme=tokyonight" height="200" />
-  <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=AnthonyPerez10&show_icons=true&hide_border=true&theme=radical" height="250" alt="Top Languages">
+  <a href="https://github.com/AnthonyPerez10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/AnthonyPerez10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" height="180" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyPerez10&theme=dark&hide_border=true"/>
 </p>
 
 ----
