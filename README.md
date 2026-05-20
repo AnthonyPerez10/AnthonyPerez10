@@ -13,27 +13,26 @@
 💡 Me apasiona crear soluciones **eficientes, escalables y útiles** que resuelvan problemas del mundo real.  
 📈 Actualmente enfocado en perfeccionar mis habilidades en el desarrollo móvil, web y de software, así como en el diseño de arquitecturas sólidas para enfrentar retos reales del desarrollo.
 
----- 
+-----
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <!-- Tarjeta de Estadísticas Generales -->
   <a href="https://github.com/AnthonyPerez10">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estadísticas de Anthony" />
+    <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estadísticas de Anthony" />
   </a>
-  <!-- Tarjeta de Lenguajes Más Usados -->
   <a href="https://github.com/AnthonyPerez10">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&langs_count=8&theme=algolia" alt="Lenguajes más usados" />
-  </a>
-  <br><br>
-  <!-- Tarjeta de Racha (Streak) Centrada Abajo -->
-  <a href="https://github.com/AnthonyPerez10">
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=AnthonyPerez10&theme=material-palenight" alt="Racha en GitHub" />
+    <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&langs_count=8&theme=algolia" alt="Lenguajes más usados" />
   </a>
 </p>
 
-----
+<p align="center">
+  <a href="https://github.com/AnthonyPerez10">
+    <img width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=AnthonyPerez10&theme=algolia" alt="Racha en GitHub" />
+  </a>
+</p>
+
+---
 
 ## 🛠️ Tecnologías y Herramientas
 
