@@ -18,16 +18,19 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
+  <!-- Tarjeta de Estadísticas Generales -->
   <a href="https://github.com/AnthonyPerez10">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estadísticas de Anthony" />
   </a>
+  <!-- Tarjeta de Lenguajes Más Usados -->
   <a href="https://github.com/AnthonyPerez10">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&langs_count=8&theme=algolia" alt="Lenguajes más usados" />
   </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyPerez10&theme=dark&hide_border=true"/>
+  <br><br>
+  <!-- Tarjeta de Racha (Streak) Centrada Abajo -->
+  <a href="https://github.com/AnthonyPerez10">
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=AnthonyPerez10&theme=material-palenight" alt="Racha en GitHub" />
+  </a>
 </p>
 
 ----
