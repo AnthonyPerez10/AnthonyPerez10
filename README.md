@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas :microphone: :headphones: :notes:
 
 ### 📱 Desarrollo Móvil & Deployment
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
