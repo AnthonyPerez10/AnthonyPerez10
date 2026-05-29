@@ -7,7 +7,7 @@
 
 ----
 
-## 🚀 Sobre mí
+## 🚀 Sobre mí :headphones: :notes:
 
 🎓 Estudiante de **Desarrollo y Gestión de Software** en la Universidad Tecnológica de Panamá (UTP).  
 💡 Me apasiona crear soluciones **eficientes, escalables y útiles** que resuelvan problemas del mundo real.  
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas :microphone: :headphones: :notes:
+## 🛠️ Tecnologías y Herramientas :microphone: 
 
 ### 📱 Desarrollo Móvil & Deployment
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
