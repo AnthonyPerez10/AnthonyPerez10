@@ -28,7 +28,11 @@
 
 <p align="center">
   <a href="https://github.com/AnthonyPerez10">
-    <img width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=AnthonyPerez10&theme=algolia&zone=America/Panama" alt="Racha en GitHub" />
+    <img
+      width="500px"
+      src="https://github-readme-streak-stats.herokuapp.com?user=AnthonyPerez10&theme=algolia&locale=es&date_format=j%20M%5B%20Y%5D&timezone=America/Panama"
+      alt="Racha en GitHub"
+    />
   </a>
 </p>
 
