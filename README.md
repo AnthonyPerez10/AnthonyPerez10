@@ -7,7 +7,7 @@
 
 ----
 
-## 🚀 Sobre mí :headphones: :notes:
+## 🚀 Sobre mí :headphones: 
 
 🎓 Estudiante de **Desarrollo y Gestión de Software** en la Universidad Tecnológica de Panamá (UTP).  
 💡 Me apasiona crear soluciones **eficientes, escalables y útiles** que resuelvan problemas del mundo real.  
@@ -63,7 +63,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-## 📫 Contacto
+## 📫 Contacto :notes:
 Si quieres colaborar en un proyecto o simplemente saludar, ¡mi bandeja de entrada está abierta!
 
 [![Email Badge](https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anthony.perez10@utp.ac.pa)
