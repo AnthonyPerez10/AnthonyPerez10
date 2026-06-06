@@ -28,10 +28,10 @@
 
 <p align="center">
   <a href="https://github.com/AnthonyPerez10">
-    <img
-      width="500px"
-      src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=algolia&locale=es&date_format=j%20M%5B%20Y%5D"
-      alt="Racha en GitHub"
+    <img 
+      width="500px" 
+      src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=algolia&locale=es&date_format=j%20M%20Y" 
+      alt="Racha en GitHub" 
     />
   </a>
 </p>
