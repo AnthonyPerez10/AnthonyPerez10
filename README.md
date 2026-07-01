@@ -26,12 +26,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AnthonyPerez10">
-    <img height="180px" src="https://streak-stats.demolab.com?user=AnthonyPerez10&theme=algolia&locale=es&zone=America/Panama" alt="Racha en GitHub" />
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas 🎤
