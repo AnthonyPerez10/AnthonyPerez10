@@ -5,9 +5,6 @@
   <img src="https://img.shields.io/badge/UTP-Universidad%20Tecnológica%20de%20Panamá-d32f2f?style=for-the-badge" alt="UTP" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnthonyPerez10&color=7F52FF&style=flat-square&label=Visitas%20al%20perfil" alt="Views" />
-</p>
 
 ---
 
