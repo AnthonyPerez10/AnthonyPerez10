@@ -38,14 +38,6 @@
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&langs_count=10&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </a>
 
-<br/>
-
-<a href="https://github.com/AnthonyPerez10">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AnthonyPerez10&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-<br/>
-
 </div>
 
 ---
