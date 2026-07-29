@@ -5,36 +5,48 @@
   <img src="https://img.shields.io/badge/UTP-Universidad%20Tecnológica%20de%20Panamá-d32f2f?style=for-the-badge" alt="UTP" />
 </p>
 
-
 ---
 
 ### 🚀 Sobre mí 🎧
 
 <p align="left">
-  👋 ¡Hola! Soy <b>Anthony</b>, estudiante de <b>Desarrollo y Gestión de Software</b> en la Universidad Tecnológica de Panamá (UTP). Me apasiona crear soluciones eficientes, scalables y útiles que resuelvan problemas del mundo real. Actualmente estoy enfocado en perfeccionar mis habilidades en el desarrollo móvil, web y de software, así como en el diseño de arquitecturas sólidas.
+  👋 ¡Hola! Soy <b>Anthony</b>, estudiante de <b>Desarrollo y Gestión de Software</b> en la Universidad Tecnológica de Panamá (UTP). Me apasiona crear soluciones eficientes, escalables y útiles que resuelvan problemas del mundo real. Actualmente estoy enfocado en perfeccionar mis habilidades en el desarrollo móvil, web y de software, así como en el diseño de arquitecturas sólidas.
 </p>
 
 ---
 
-## 📊 Mi Actividad en GitHub
+## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Tarjeta de estadísticas principales -->
-  <a href="https://github.com/AnthonyPerez10">
-    <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnthonyPerez10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas de Anthony" />
-  </a>
-  <!-- Gráfico de Rachas (Streak) -->
-  <a href="https://git.io/streak-stats">
-    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyPerez10&theme=tokyonight" alt="Racha de GitHub" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Tarjeta de lenguajes centrada justo abajo -->
-  <a href="https://github.com/AnthonyPerez10">
-    <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&langs_count=6&theme=tokyonight" alt="Lenguajes más usados" />
-  </a>
-</p>
+<a href="https://github.com/AnthonyPerez10">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnthonyPerez10&theme=gruvbox" alt="GitHub Profile Summary"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/AnthonyPerez10">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnthonyPerez10&theme=gruvbox" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/AnthonyPerez10">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnthonyPerez10&theme=gruvbox&utcOffset=-5" alt="Productive Time"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/AnthonyPerez10">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnthonyPerez10&layout=compact&langs_count=10&theme=gruvbox&hide_border=true" alt="Top Languages" />
+</a>
+
+<br/>
+
+<a href="https://github.com/AnthonyPerez10">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AnthonyPerez10&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+<br/>
+
+</div>
 
 ---
 
