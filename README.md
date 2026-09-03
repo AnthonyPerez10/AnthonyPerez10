@@ -9,8 +9,8 @@
 
 ### 🚀 Sobre mí 🎧
 
-<p align="left">
-  👋 ¡Hola! Soy <b>Anthony</b>, estudiante de <b>Desarrollo y Gestión de Software</b> en la Universidad Tecnológica de Panamá (UTP). Me apasiona crear soluciones eficientes, escalables y útiles que resuelvan problemas del mundo real. Actualmente estoy enfocado en perfeccionar mis habilidades en el desarrollo móvil, web y de software, así como en el diseño de arquitecturas sólidas.
+<p align="justify">
+  Soy <b>Anthony</b>, desarrollador y estudiante de <b>Desarrollo y Gestión de Software</b> en la Universidad Tecnológica de Panamá (UTP). Mi enfoque principal es el desarrollo web y móvil, combinando el diseño de arquitecturas robustas con la creación de soluciones eficientes, escalables y orientadas a resolver problemas reales de negocio e ingeniería.
 </p>
 
 ---
