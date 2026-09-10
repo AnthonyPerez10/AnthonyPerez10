@@ -59,4 +59,10 @@ Si quieres colaborar en un proyecto o simplemente saludar, ¡mi bandeja de entra
   <a href="mailto:anthony.perez10@utp.ac.pa">
     <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
+  <a href="www.linkedin.com/in/anthony-perez-197367430" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/TU_USUARIO_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
