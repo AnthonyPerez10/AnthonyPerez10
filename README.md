@@ -1,4 +1,4 @@
-# <p align="center">👨‍💻 Anthony Pérez | Software Developer</p>
+# <p align="center">👨‍💻 Anthony.Dev | Software Developer</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desarrollador%20de%20Software-Estudiante-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Software Developer" />
