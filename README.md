@@ -62,9 +62,9 @@ Si quieres colaborar en un proyecto o simplemente saludar, ¡mi bandeja de entra
   <a href="https://www.linkedin.com/in/anthony-perez-197367430" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!--
-  <a href="https://www.instagram.com/TU_USUARIO_AQUI" target="_blank">
+  
+  <a href="https://www.instagram.com/__anth.xny" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  -->
+  
 </p>
