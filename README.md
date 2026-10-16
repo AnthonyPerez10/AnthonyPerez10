@@ -10,7 +10,7 @@
 ### 🚀 Sobre mí 🎧
 
 <p align="justify">
-  Soy <b>Anthony</b>, desarrollador y estudiante de <b>Desarrollo y Gestión de Software</b> en la Universidad Tecnológica de Panamá (UTP). Mi enfoque principal es el desarrollo web y móvil, combinando el diseño de arquitecturas robustas con la creación de soluciones eficientes, escalables y orientadas a resolver problemas reales de negocio e ingeniería.
+  Soy <b>Anthony</b>, desarrollador y estudiante de <b>Desarrollo y Gestión de Software</b> en la Universidad Tecnológica de Panamá (UTP). Mi enfoque principal es el desarrollo <b>web y móvil</b>, complementado con la administración de entornos en <b>Linux</b> y la containerización de servicios con <b>Docker</b>. Busco combinar arquitecturas robustas y limpias con soluciones eficientes, escalables y orientadas a resolver problemas reales de negocio e ingeniería.
 </p>
 
 ---
@@ -44,9 +44,13 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,kotlin,cs,py,php,js,html,css,ms_sql,mysql,visualstudio,vscode,figma,git,github,antigravity" alt="Mis Herramientas" />
+    <img src="https://skillicons.dev/icons?i=android,kotlin,cs,py,php,js,html,css" alt="Lenguajes y Móvil" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,linux,docker,bash,visualstudio,vscode,figma,git,github" alt="Herramientas y DevOps" />
   </a>
 </p>
 
