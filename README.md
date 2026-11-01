@@ -15,6 +15,21 @@
 
 ---
 
+## 🛠️ Tecnologías y Herramientas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=android,kotlin,cs,py,php,js,html,css" alt="Lenguajes y Móvil" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,linux,docker,bash,visualstudio,vscode,figma,git,github" alt="Herramientas y DevOps" />
+  </a>
+</p>
+
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -39,20 +54,6 @@
 </a>
 
 </div>
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,kotlin,cs,py,php,js,html,css" alt="Lenguajes y Móvil" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,linux,docker,bash,visualstudio,vscode,figma,git,github" alt="Herramientas y DevOps" />
-  </a>
-</p>
 
 ---
 
