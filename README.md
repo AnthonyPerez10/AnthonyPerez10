@@ -33,9 +33,19 @@
 ### 📌 Sobre mí
 
 ```yaml
-name: Anthony
-alias: anthony.dev
-academic_role: Estudiante de Desarrollo y Gestión de Software @ UTP
-specialization: Web & Mobile Engineering
-interests: [Linux Environments, Docker Containerization, Clean Architecture, Music 🎧]
-location: Panamá 🇵🇦
+developer:
+  name: Anthony
+  alias: anthony.dev
+  education:
+    degree: Desarrollo y Gestión de Software
+    institution: Universidad Tecnológica de Panamá (UTP)
+  location: Panamá 🇵🇦
+  interests: [Linux Environments, Docker Containerization, Clean Architecture, Music 🎧]
+
+stack:
+  mobile: [Android, Kotlin]
+  backend: [C#, .NET, Python, PHP]
+  frontend: [JavaScript, HTML5, CSS3]
+  database: [MySQL]
+  devops_sysadmin: [Docker, Linux, Bash]
+  tooling: [Git, GitHub, VS Code, Visual Studio, Figma]
