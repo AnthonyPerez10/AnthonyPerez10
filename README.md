@@ -33,7 +33,7 @@
 ### 📌 Sobre mí
 
 ```yaml
-name: Anthony Pérez
+name: Anthony
 alias: anthony.dev
 academic_role: Estudiante de Desarrollo y Gestión de Software @ UTP
 specialization: Web & Mobile Engineering
