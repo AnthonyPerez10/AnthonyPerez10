@@ -40,7 +40,7 @@ developer:
     degree: Desarrollo y Gestión de Software
     institution: Universidad Tecnológica de Panamá (UTP)
   location: Panamá 🇵🇦
-  interests: [Linux Environments, Docker Containerization, Clean Architecture, Music 🎧]
+  interests: [Linux Environments, Docker Containerization, Clean Architecture, Music, Desarrollo Con IA🎧]
 
 stack:
   mobile: [Android, Kotlin]
